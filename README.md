@@ -18,9 +18,9 @@ of this pipe dream is embryonic.
 
 Forms over data should be simple, so a language supporting this use case
 should be easy to read, understand and write. A minimal feature set is
-implied, think of languages like [Go](https://golang.org/), [Scheme](),
-[Zig](https://ziglang.org/) and [SML](https://smlfamily.github.io/) but even
-simpler. 
+implied, think of languages like [Go](https://golang.org/),
+[Scheme](http://www.scheme-reports.org/), [Zig](https://ziglang.org/) and
+[SML](https://smlfamily.github.io/) but even simpler. 
 
 #### No concurrency
 
